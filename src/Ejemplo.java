@@ -8,7 +8,7 @@ public class Ejemplo {
 		
 		String nombre = "Alonso";
 		
-		
+		System.out.println(nombre);
 	}
 
 }
